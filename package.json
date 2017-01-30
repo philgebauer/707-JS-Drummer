@@ -1,0 +1,23 @@
+{
+  "name": "707-js-drummer",
+  "version": "1.0.0",
+  "description": "Keyboard drummer for the classic Roland 707 drum maschine",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philgebauer/707-JS-Drummer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philgebauer/707-JS-Drummer/issues"
+  },
+  "homepage": "https://github.com/philgebauer/707-JS-Drummer#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "request": "^2.79.0"
+  }
+}
